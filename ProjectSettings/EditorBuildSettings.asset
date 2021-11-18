@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HOME.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/A.unity
+    guid: eb45ecc5347814b45b74513107da11d4
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/B.unity
+    guid: 533e43a90c3cb434baeb81fb65c742fd
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/C.unity
+    guid: d1996f4533249fc4b833ed2142095536
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/D.unity
+    guid: 103d8a4757c55924090012e23ecae14a
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/E.unity
+    guid: 8e76fb8d2de962541a9d22cd6ea60f06
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/F.unity
+    guid: baa12e64fd2758c45a274bcb5f4c15d1
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/G.unity
+    guid: c492f2290de8c3643882cde9f934502a
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/H.unity
+    guid: 26448011ea502814db7195d716e2ebc0
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/I.unity
+    guid: 3cf90ed52c809624a8baca7bb5db96f9
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/J.unity
+    guid: 801d919a0dbfcce45b0acfd695f4761e
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/K.unity
+    guid: 076997d93731f454ab9a339efd040e56
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/L.unity
+    guid: 61ee4d910f9bc894d8a7323777e1435d
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/M.unity
+    guid: ffe747f009ae6dc4989be541f4308919
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/N.unity
+    guid: eaab5965d681caf46a547236c6b5842f
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/O.unity
+    guid: 1d4a9efaadd438e49bb15048ef1a7bdf
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/P.unity
+    guid: 6fe5f663e23ec8c42b171b313978dbad
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/Q.unity
+    guid: c0b5825f197987044ba1fa0b675ef1b9
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/R.unity
+    guid: 18bf69f673007634086e545310f6f6e5
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/S.unity
+    guid: 545f0749161c1af4e8d95b3914a10804
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/T.unity
+    guid: 8e2049ca5f51fbd438d5da2c032d18fa
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/U.unity
+    guid: 37fba44bd7c40a14795f467143f50f7d
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/V.unity
+    guid: 52f0603a0af5b2e45ae90df4be66b7b4
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/W.unity
+    guid: ba29ccb20a30a1d4ca8d61180bf48c77
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/X.unity
+    guid: fae753921f800d04883b252e264922ba
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/Y.unity
+    guid: ccccb18050d906e418e3dcbd84c1f16c
+  - enabled: 1
+    path: Assets/Scenes/Alphabet/Z.unity
+    guid: f7643aa2c6eb93643a472ad6e1fb0aeb
+  - enabled: 1
+    path: Assets/Scenes/Activity/A/Activity_A1.unity
+    guid: 275f81c00e5088641ae96b8c78cb56b2
+  - enabled: 1
+    path: Assets/Scenes/Activity/A/correctA1.unity
+    guid: 6cc1c57af87488742be5f94becb40355
+  - enabled: 1
+    path: Assets/Scenes/Activity/A/wrongA1.unity
+    guid: 66bde17846a60e2418d1199a4acb85c4
+  - enabled: 1
+    path: Assets/Scenes/Activity/A/correctA2.unity
+    guid: 9b3cafd7bbbc7f4429f697a8e772028f
+  - enabled: 1
+    path: Assets/Scenes/Activity/A/wrongA2.unity
+    guid: fc4eaed837cb6434599e642ab6b82dc8
+  - enabled: 1
+    path: Assets/Scenes/typing Activity/typing_A.unity
+    guid: f817b930728b05440891bd77f3a1b07d
+  m_configObjects: {}
