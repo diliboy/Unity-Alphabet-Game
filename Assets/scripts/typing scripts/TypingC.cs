@@ -54,7 +54,7 @@ public class TypingC : MonoBehaviour
 
             if (IsWordComplete())
             {
-                SceneManager.LoadScene(30);
+                SceneManager.LoadScene(41);
             }
         }
     }

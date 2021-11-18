@@ -207,7 +207,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7710694984499764053}
-        m_TargetAssemblyTypeName: Activity_B, Assembly-CSharp
+        m_TargetAssemblyTypeName: Activity_O, Assembly-CSharp
         m_MethodName: ChoiceOption3
         m_Mode: 1
         m_Arguments:
@@ -581,7 +581,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7710694984499764053}
-        m_TargetAssemblyTypeName: Activity_B, Assembly-CSharp
+        m_TargetAssemblyTypeName: Activity_O, Assembly-CSharp
         m_MethodName: ChoiceOption4
         m_Mode: 1
         m_Arguments:
@@ -809,7 +809,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 191.78, y: 117.59}
+  m_AnchoredPosition: {x: 200.29, y: 104}
   m_SizeDelta: {x: 69.6452, y: 62.3386}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &848183580
@@ -940,7 +940,7 @@ MonoBehaviour:
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 1
+          m_IntArgument: 15
           m_FloatArgument: 0
           m_StringArgument: 
           m_BoolArgument: 0
@@ -1226,7 +1226,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7710694984499764053}
-        m_TargetAssemblyTypeName: Activity_B, Assembly-CSharp
+        m_TargetAssemblyTypeName: Activity_O, Assembly-CSharp
         m_MethodName: ChoiceOption1
         m_Mode: 1
         m_Arguments:
@@ -1657,7 +1657,7 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 7710694984499764053}
-        m_TargetAssemblyTypeName: Activity_B, Assembly-CSharp
+        m_TargetAssemblyTypeName: Activity_O, Assembly-CSharp
         m_MethodName: ChoiceOption2
         m_Mode: 1
         m_Arguments:
@@ -1989,7 +1989,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 7710694984499764052}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 09fbc48af820e6548afee082257c6582, type: 3}
+  m_Script: {fileID: 11500000, guid: 4ed8a992aaf39ab448e76435d4fa4fc4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   Textbox: {fileID: 1331106586}

@@ -15,24 +15,24 @@ public class Activity_B : MonoBehaviour
 
     public void ChoiceOption1()
     {
-        SceneManager.LoadScene(29);
+        SceneManager.LoadScene(36);
         ChoiceMade = 1;
     }
     public void ChoiceOption2()
     {
-        SceneManager.LoadScene(29);
+        SceneManager.LoadScene(36);
         ChoiceMade = 2;
     }
 
     public void ChoiceOption3()
     {
-        SceneManager.LoadScene(28);
+        SceneManager.LoadScene(34);
         ChoiceMade = 3;
     }
 
     public void ChoiceOption4()
     {
-        SceneManager.LoadScene(29);
+        SceneManager.LoadScene(36);
         ChoiceMade = 4;
     }
 
